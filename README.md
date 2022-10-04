@@ -38,14 +38,13 @@ The development board use STMicroelectronics STM32G031FxP microcontroller, an AR
 - Low-power modes: Sleep, Stop, Standby, and Shutdown.
 - Development support: serial wire debug (SWD).
 
-The development board includes a LiPo-charger and connector for a 3.7 V connection in the field. The form factor is the `Wemos/Lolin D1-mini` and thus can often directly accept their series of shields.
-One LED indicates `power`, which can be disabled to reduce power consumption, a second LED shows charging status, and the third is the user `LED_BUILTIN` (=PB8).
+The development board includes a LiPo-charger and connector for a 3.7 V supply for RTC and backup registers. The form factor is the `Wemos/Lolin D1-mini` and thus can often directly accept their series of shields. One LED indicates `power`, which can be disabled to reduce power consumption, a second LED shows charging status, and the third is the user `LED_BUILTIN` (=PB8).
 
 ## Software development
 
 [STM32Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html) with [ST-LINK/V2](https://www.st.com/en/development-tools/st-link-v2.html) in-circuit debugger/programmer can be used for C/C++ code development. There are cheap alternative ST-Link adapters (AliExpress/Amazon). It is also possible to use STMicroelectronics `Discovery boards`, which come with built-in debugger probes.
 
-Another alternative is to use a gentler approach with [Arduino IDE](https://www.arduino.cc/en/software) and program the board with an ST-link and the Arduino library `stm32duino`, which is officially supported by STMicroelectronics.
+Another alternative is to use a gentler approach with [Arduino IDE](https://www.arduino.cc/en/software) and program the board with an ST-link and the Arduino library [stm32duino](https://github.com/stm32duino/Arduino_Core_STM32), which is officially supported by STMicroelectronics.
 
 ## Specification for the D1-mini G031Fx Development board v1.1
 
