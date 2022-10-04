@@ -38,7 +38,7 @@ The development board use STMicroelectronics STM32G031FxP microcontroller, an AR
 - Low-power modes: Sleep, Stop, Standby, and Shutdown.
 - Development support: serial wire debug (SWD).
 
-The development board includes a LiPo-charger and connector for a 3.7 V supply for RTC and backup registers. The form factor is the `Wemos/Lolin D1-mini` and thus can often directly accept their series of shields. One LED indicates `power`, which can be disabled to reduce power consumption, a second LED shows charging status, and the third is the user `LED_BUILTIN` (=PB8).
+The development board includes a LiPo-charger and connector for a 3.7 V supply for RTC and backup registers. The form factor is the [Wemos/Lolin](https://lolin.aliexpress.com/store/1331105) D1-mini and thus can often directly accept their series of shields. One LED indicates `power`, which can be disabled to reduce power consumption, a second LED shows charging status, and the third is the user `LED_BUILTIN` (=PB8).
 
 ## Software development
 
