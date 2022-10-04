@@ -46,6 +46,10 @@ The development board includes a LiPo-charger and connector for a 3.7 V supply f
 
 Another alternative is to use a gentler approach with [Arduino IDE](https://www.arduino.cc/en/software) and program the board with an ST-link and the Arduino library [stm32duino](https://github.com/stm32duino/Arduino_Core_STM32), which is officially supported by STMicroelectronics.
 
+## Pinout
+
+![Board pinout](./pinout/D1-mini-G031Fx-pinout-v1_1.png)
+
 ## Specification for the D1-mini G031Fx Development board v1.1
 
 The fabricated two-layer board has the dimensions of 26.8 x 31.6 mm (1.05"x1.24").
