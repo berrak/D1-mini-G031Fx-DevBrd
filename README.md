@@ -12,7 +12,7 @@
 This board allows for a gentle introduction to embedded software development in the `Arduino IDE C/C?++ speak` and progressing further with `STM32Cube IDE` and unleashing the power of the ARM processor architecture. The development board's educational purpose is to be `as simple as it can, but not simpler` (*Albert Einstein*). There is still much to explore with this affordable board and a modest investment in the debugger/programmer. The software development tools are free and use Linux. The operating system is at no additional cost.
 
 - It is cheap to get started. $5 should be enough, excluding the computer.
-- It is easy to extend capabilities by adding Wemos/Lolin shields to the board.
+- It is easy to extend capabilities by adding [Wemos/Lolin](https://lolin.aliexpress.com/store/1331105) shields to the board.
 - Explore advanced low-power modes.
 - Interface various sensors.
 - Explore capabilities and limitations.
