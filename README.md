@@ -1,9 +1,10 @@
-![prototyping solderable board](./images/3d-view-d1-mini-g031fx-v1_1.png)
+![prototyping solderable board](./images/splash-3d-view-d1-mini-g031fx-v1_1.png)
 
 [![GitHub version](https://img.shields.io/github/release/berrak/D1-mini-G031Fx-DevBrd.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/D1-mini-G031Fx-DevBrd/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/berrak/D1-mini-G031Fx-DevBrd.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/D1-mini-G031Fx-DevBrd/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/berrak/D1-mini-G031Fx-DevBrd.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/D1-mini-G031Fx-DevBrd/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/berrak/D1-mini-G031Fx-DevBrd.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/G031-D1-mini-DevBrd/issues)
+![Badge Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=berrak_D1-mini-G031Fx-DevBrd)
 
 # The D1-mini G031Fx Development Board
 
@@ -77,3 +78,7 @@ Find all the latest designed boards on `Tindie`.
 [![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
 
 I appreciate your support.
+
+## Credits
+
+`Coming soon` splash image by [starline](https://www.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_9504688.htm#query=coming%20soon&position=4&from_view=keyword).
