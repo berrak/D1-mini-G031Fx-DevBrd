@@ -1,4 +1,4 @@
-![prototyping solderable board](./images/splash-3d-view-d1-mini-g031fx-v1_1.png)
+![prototyping solderable board](./images/Debinix-D1-mini-STM32G031F8-Dev-Brd-small.jpg)
 
 [![GitHub version](https://img.shields.io/github/release/berrak/D1-mini-G031Fx-DevBrd.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/D1-mini-G031Fx-DevBrd/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/berrak/D1-mini-G031Fx-DevBrd.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/D1-mini-G031Fx-DevBrd/releases/latest)
@@ -79,6 +79,3 @@ Find all the latest designed boards on `Tindie`.
 
 I appreciate your support.
 
-## Credits
-
-`Coming soon` splash image by [starline](https://www.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_9504688.htm#query=coming%20soon&position=4&from_view=keyword).
